@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tavor Application</string>
+    <string name="connect">התחבר</string>
+    <string name="password">סיסמא</string>
+    <string name="email">אימייל</string>
+    <string name="register">הרשם</string>
+    <string name="not_register">לא נרשמת? להרשמה לחץ כאן</string>
+    <string name="logout">התנתק</string>
+</resources>

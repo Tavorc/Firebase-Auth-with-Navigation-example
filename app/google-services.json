@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717095266429",
+    "firebase_url": "https://chatavor-1ce70.firebaseio.com",
+    "project_id": "chatavor-1ce70",
+    "storage_bucket": "chatavor-1ce70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717095266429:android:f56f088ec7bef8aa5ae914",
+        "android_client_info": {
+          "package_name": "com.test.user.tavorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717095266429-dcj8tc6tidvou4j67f3kve82amtpv7k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.user.tavorapplication",
+            "certificate_hash": "07380e4e7ef9fd720e79ebc6f2dd690f3041dbc3"
+          }
+        },
+        {
+          "client_id": "717095266429-na4rmqhb4scrb9acsgi8a6djgam372hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLzxbGTPXhHNT-i3VqMgq-h7V3i5CI3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717095266429-na4rmqhb4scrb9acsgi8a6djgam372hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
